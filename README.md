@@ -1,3 +1,7 @@
+# Mas afinal o que é churn de clientes?
+
+Churn é um termo em inglês que se refere à taxa de perda de clientes em uma empresa. Quando falamos de "churn de clientes", estamos nos referindo ao número de clientes que cancelam ou deixam de usar os serviços de uma empresa em um determinado período de tempo. Nesse projeto, desenvolvemos um dashboard dinamico com sliders, onde é possível configurarmos varios cenários. Cenários esses, em que o modelo consegue retornar uma probabilide de o churn acontecer para um determinado cliente que vc configurou movendo os sliders do dashboard...
+
 # Previsão de Churn com Random Forest - BRA TeleCOM
 
 Este projeto utiliza técnicas de Machine Learning para prever a probabilidade de churn de clientes da BRA TeleCOM. O modelo foi treinado com dados históricos de clientes e é baseado no algoritmo Random Forest. Através de uma interface interativa com **Streamlit**, é possível visualizar os resultados do modelo e fazer previsões para novos clientes.
