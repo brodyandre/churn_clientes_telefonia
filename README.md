@@ -90,7 +90,10 @@ O modelo de Machine Learning foi construído com o algoritmo **Random Forest**. 
 - **Renda**: Renda mensal do cliente (em R$)  
 - **Reclamações**: Total de reclamações registradas  
 - **Satisfação**: Nível de satisfação (0 a 10)  
-- **Último Contato com Suporte**: Tempo desde o último atendimento  
+- **Último Contato com Suporte**: Tempo desde o último atendimento
+
+## Na imagem abaixo podemos encontrar informações sobre a acurácia do modelo de previsão 
+   ![Relatório de Desempenho do Modelo](https://raw.githubusercontent.com/brodyandre/churn_clientes_telefonia/main/Dashboard_churn_clientes/01_Relat%C3%B3rio%20de%20desempenho%20do%20modelo.png)
 
 ## 🤝 Como Contribuir
 
