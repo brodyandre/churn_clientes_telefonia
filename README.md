@@ -98,7 +98,14 @@ O modelo de Machine Learning foi construído com o algoritmo **Random Forest**. 
 ## Na imagem abaixo podemos visualizar os sliders de configuração de valores para o modelo. Observe que o primeiro slider está configurado com a "Previsão para Novo Cliente Configurada em: 30 anos". E no rodapé da imagem o modelo exibe a previsão: "Probabilidade de churn para este cliente é de 19.0%"
 
 Recomendação: Este cliente tem uma baixa probabilidade de chun. Mantenha o acompanhamento
-   ![Relatório de Previsão para Novo CLiente](https://raw.githubusercontent.com/brodyandre/churn_clientes_telefonia/main/Dashboard_churn_clientes/01_Relat%C3%B3rio%20de%20desempenho%20do%20modelo.png)
+   ![Relatório de Previsão para Novo CLiente](https://github.com/brodyandre/churn_clientes_telefonia/blob/main/Dashboard_churn_clientes/02_Dashboard_Previsao_para_novo_cliente_idade_30.png)
+
+
+## Na imagem abaixo podemos visualizar os sliders de configuração de valores para o modelo. Observe que o primeiro slider agora foi movido para o valor "71" "Previsão para Novo Cliente Configurada em: 71 anos". E no rodapé da imagem o modelo exibe a previsão: "Probabilidade de churn para este cliente é de 39.0%"
+
+Recomendação: Este cliente tem uma baixa probabilidade de chun. Mantenha o acompanhamento
+   ![Relatório de Previsão para Novo CLiente](https://github.com/brodyandre/churn_clientes_telefonia/blob/main/Dashboard_churn_clientes/02_Dashboard_Previsao_para_novo_cliente_idade_30.png)
+
 
    
 
