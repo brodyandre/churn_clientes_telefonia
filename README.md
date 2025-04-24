@@ -22,6 +22,7 @@ O objetivo principal deste projeto é prever se um cliente vai deixar a operador
 - **Scikit-learn**: Biblioteca de Machine Learning
 - **Pandas**: Manipulação de dados
 - **Matplotlib**: Visualização de gráficos
+- **Random Forest**: Previsão para o churn
 
 ## 🚀 Ambiente Virtual
 
