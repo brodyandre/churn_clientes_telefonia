@@ -107,6 +107,11 @@ Recomendação: Este cliente tem uma baixa probabilidade de chun. Mantenha o aco
    ![Relatório de Previsão para Novo CLiente](https://github.com/brodyandre/churn_clientes_telefonia/blob/main/Dashboard_churn_clientes/03_Dashboard_Previsao_para_novo_cliente_idade_71.png)
 
 
+## Conclusões
+
+Podemos mover os sliders e configurar infinitos cenários que o modelo de previsão exibirá uma probabilidade de churn. Facilitando a vida dos tomadores de decisão!!!
+
+
    
 
 ## 🤝 Como Contribuir
