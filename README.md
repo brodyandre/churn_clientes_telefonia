@@ -109,7 +109,7 @@ Recomendação: Este cliente tem uma baixa probabilidade de chun. Mantenha o aco
 ## Na imagem abaixo podemos visualizar os sliders de configuração de valores para o modelo. Observe que o primeiro slider agora foi movido para o valor "71" "Previsão para Novo Cliente Configurada em: 71 anos". E no rodapé da imagem o modelo exibe a previsão: "Probabilidade de churn para este cliente é de 39.0%"
 
 Recomendação: Este cliente tem uma baixa probabilidade de chun. Mantenha o acompanhamento
-   ![Relatório de Previsão para Novo CLiente](https://github.com/brodyandre/churn_clientes_telefonia/blob/9a12c9abf059eaafed14bba1987d39eea3a68f19/Dashboard_churn_clientes/03_Dashboard_Previsao_para_novo_cliente_idade_71.png)
+   ![Relatório de Previsão para Novo CLiente](https://github.com/brodyandre/churn_clientes_telefonia/blob/f93267f49650167536ca017a98b28aaae7965f6e/Dashboard_churn_clientes/03_Dashboard_Previsao_para_novo_cliente_idade_71.png)
 
 
 ## Conclusões
