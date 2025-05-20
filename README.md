@@ -98,7 +98,7 @@ O modelo de Machine Learning foi construído com o algoritmo **Random Forest**. 
 - **Último Contato com Suporte**: Tempo desde o último atendimento
 
 ## Na imagem abaixo podemos encontrar informações sobre a acurácia do modelo de previsão 
-   ![Relatório de Desempenho do Modelo](https://github.com/brodyandre/churn_clientes_telefonia/blob/ea1ce08db50715cff63470be2832f5320bffeecf/Dashboard_churn_clientes/01_Relat%C3%B3rio%20de%20desempenho%20do%20modelo.png) 
+   ![Relatório de Desempenho do Modelo](https://github.com/brodyandre/churn_clientes_telefonia/blob/628dc84ee53a3cd2bda3a680adcf66fa94fcff5e/Dashboard_churn_clientes/01_Relat%C3%B3rio%20de%20desempenho%20do%20modelo.png) 
 
 ## Na imagem abaixo podemos visualizar os sliders de configuração de valores para o modelo. Observe que o primeiro slider está configurado com a "Previsão para Novo Cliente Configurada em: 30 anos". E no rodapé da imagem o modelo exibe a previsão: "Probabilidade de churn para este cliente é de 19.0%"
 
